@@ -12,7 +12,7 @@ Chromeから簡単に確認する為のシンプルなビューワ。
 0. 以下のリンクからcrxファイルをダウンロードします。
     - [SimpleAmeshViewer.crx](https://github.com/mitsu-ksgr/SimpleAmeshViewer/blob/master/SimpleAmeshViewer.crx?raw=true)
 0. Chromeで拡張機能のページを開きます。
-    - [Chrome: 拡張機能](chrome://extensions/)
+    - メニューバー: ウィンドウ > 拡張機能
 0. 拡張機能のページに、crxファイルをドラッグ＆ドロップします。
 0. 拡張機能として追加します。
 0. 完了！
@@ -33,7 +33,7 @@ Simple Viewer for [the Tokyo-Amesh](http://tokyo-ame.jwa.or.jp/).
 0. Download the crx file from the following link.
     - [SimpleAmeshViewer.crx](https://github.com/mitsu-ksgr/SimpleAmeshViewer/blob/master/SimpleAmeshViewer.crx?raw=true)
 0. Open the chrome-extension page.
-    - [Chrome-Extensions](chrome://extensions/)
+    - Menu: Window > Extensions
 0. Drag & drop the crx file to the chrome-extension page.
 0. Add the Tokyo-Amesh Simple Viewer as an extension.
 0. Complete!
