@@ -13,7 +13,6 @@ Chromeから簡単に確認する為のシンプルなビューワ。
     - [SimpleAmeshViewer.crx](https://github.com/mitsu-ksgr/SimpleAmeshViewer/blob/master/SimpleAmeshViewer.crx?raw=true)
 0. Chromeで拡張機能のページを開きます。
     - [Chrome: 拡張機能](chrome://extensions/)
-0. Drag & drop the crx file to extension.
 0. 拡張機能のページに、crxファイルをドラッグ＆ドロップします。
 0. 拡張機能として追加します。
 0. 完了！
